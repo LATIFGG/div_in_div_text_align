@@ -56,3 +56,10 @@ body {
   justify-content: center;
   display: flex;
 }
+/* div icinde div ve yazi ortalama yaparken 
+margin auto ile horizontal hizalama yapiyoruz. vertical hizalama icin ise;
+distaki div e display:flex veriyoruz. ve devaminda
+ text-align: center;
+  align-items: center;
+  justify-content: center;
+  */
